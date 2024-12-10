@@ -1,13 +1,13 @@
-Shikhar Kumar
-Hyderabad, India
-3rd Year CSE Undergrad
+# Shikhar Kumar  
+**Hyderabad, India**  
+**3rd Year CSE Undergrad**  
 
-Aspiring Full Stack Developer
+### Aspiring Full Stack Developer  
 
-Currently studying Computer Science and Engineering (90% aggregate).
-Smart India Hackathon Finalist | Interned at Palo Alto Networks.
-Active in hackathons and project development.
-Exploring DevOps, Android development, and cloud computing.
+- 🎓 Currently studying Computer Science and Engineering (**90% aggregate**).  
+- 🏆 **Smart India Hackathon Finalist** | Interned at **Palo Alto Networks**.  
+- 💻 Active in hackathons and project development.  
+- 🔍 Exploring **DevOps**, **Android development**, and **cloud computing**.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shikhar-kumar10/) 
