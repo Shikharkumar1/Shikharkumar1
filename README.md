@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Hi!+I'm+Shikhar+Kumar;Aspiring+Full+Stack+Developer;Exploring+DevOps+and+Android+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Hi!+I'm+Shikhar+Kumar;Full+Stack+Developer;Welcome+to+my+Github;)](https://git.io/typing-svg)
 
 
 # Shikhar Kumar  
