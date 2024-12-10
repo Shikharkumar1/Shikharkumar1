@@ -4,7 +4,7 @@ Hyderabad, India
 
 Aspiring Full Stack Developer
 
-Currently studying Computer Science and Engineering (94% aggregate).
+Currently studying Computer Science and Engineering (90% aggregate).
 Smart India Hackathon Finalist | Interned at Palo Alto Networks.
 Active in hackathons and project development.
 Exploring DevOps, Android development, and cloud computing.
