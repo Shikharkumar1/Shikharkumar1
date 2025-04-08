@@ -1,5 +1,5 @@
 # Hola Amigo 👋
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shikhar%20Kumar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%20&descAlignY=51&descAlign=62)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&width=435&lines=Hi!+I'm+Shikhar+Kumar;Full+Stack+Developer;Welcome+to+my+Github;)](https://git.io/typing-svg)
 
 
